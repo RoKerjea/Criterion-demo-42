@@ -17,6 +17,11 @@ Liens utiles:
 https://criterion.readthedocs.io/en/master/index.html
 
     la documentation interne de Criterion
+    
+https://epitech-2022-technical-documentation.readthedocs.io/en/latest/index.html
+
+    la doc publique d'Epitech, avec un partie simplifie sur Criterion
+    (et peut etre quelques autres infos utiles, je sais pas, j'ai pas tout fouille)
 
 https://www.manning.com/books/unit-testing
 
